@@ -1,0 +1,1 @@
+Coloquei apenas as funções. Para o funcionamento é necessário a leitura de um arquivo contendo o nome da função e os parâmetros :) , ex: Amizade anderson gabriel, ou qualquer outra forma de manipulação das funções.
